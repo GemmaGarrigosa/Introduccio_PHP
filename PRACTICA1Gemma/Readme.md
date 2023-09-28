@@ -17,3 +17,4 @@
     Caldrà afegir a <b> captures de pantalla </b> i a <b> README.md </b> la vostra resposta a l'executar el codi.
 
         Resposta d'exemple:
+        ![resultat](/PRACTICA1Gemma/imatgepractica1.png)
