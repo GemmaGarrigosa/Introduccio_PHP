@@ -37,7 +37,7 @@
     <ul>
         <?php for($i=0; $i<5; $i++) { ?>
             <?php for ($j=0; $j<10; $j++) { ?>
-                <li>A l'habitació <?php echo $rooms[$i]." de la planta ".$i; ?> 
+                <li>A l'habitació <?php echo $j." de la planta ".$i; ?> 
                 </li>
             <?php } ?>
         <?php } ?>
