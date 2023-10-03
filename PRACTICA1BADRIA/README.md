@@ -8,4 +8,4 @@
     </ul>
     Resposta d’exemple:
     
->>>![image.png](img\image-1.png)
+>>>![image.png](img/image-1.png)
