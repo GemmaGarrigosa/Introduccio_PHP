@@ -6,7 +6,7 @@
 </head>
 <body>
     <?php 
-       //declarem l'array de taules
+       //declarem l'array de taules !!!
        $tables = [
                 rand(0,5),
                 rand(0,5),
@@ -23,9 +23,6 @@
     ?>
 
     <ul>
-
-        
-        
         <?php for ($i=0; $i <10; $i++) {  ?>
 
                 <li>
