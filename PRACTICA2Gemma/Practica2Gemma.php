@@ -6,7 +6,7 @@
 </head>
 <body>
     <?php 
-       //declarem l'array de taules
+       //declarem l'array de taules !!!
        $tables = [
                 rand(0,5),
                 rand(0,5),
