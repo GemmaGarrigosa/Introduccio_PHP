@@ -7,4 +7,4 @@
         <li>Recordar posar, després de la lògica php, la impressió de totes les dades de la persona. Aquesta impressió es fa dintre de cada etiqueta.</li>
     </ul>
     Resposta d’exemple:
->>>[image.png](img/image-1.png)
+>>>![image.png](img\image-1.png)
