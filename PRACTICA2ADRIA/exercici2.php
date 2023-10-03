@@ -37,7 +37,16 @@
     <ul>
         <?php for($i=0; $i<5; $i++) { ?>
             <?php for ($j=0; $j<10; $j++) { ?>
-                <li>A l'habitació <?php echo $j." de la planta ".$i; ?> 
+                <li>A l'habitació <?php echo $j." de la planta ".$i; ?>
+                    <?php // usem condicional per mostrar el resultat dessitjat
+                        if ($rooms[$j] == 5) {
+                            echo "està plena.";
+                        } else if ( $rooms[$j] == 0) {
+                            echo "està buida.";
+                        } else {
+                            echo "té ".$rooms[$j]." persones.";
+                        }
+                    ?>
                 </li>
             <?php } ?>
         <?php } ?>
